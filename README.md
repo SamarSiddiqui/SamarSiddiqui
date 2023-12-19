@@ -1,5 +1,9 @@
 # 💫 Hi, I'm Samar 👋
 🔭 I’m currently working on something really cool.<br>👯 I’m looking to collaborate on open Source Projects.<br>🌱 I’m currently learning JavaScript Framework.<br>💬 I code better with a cat on my lap—fact or fiction? 😺💻<br>⚡ I tell computers to do things. Sometimes they listen.
+![Header](./github-header-image.png)
+
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Samar#9041) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samsid__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samar-siddiqui-763481236?utm_source=share&utm_content=profile&utm_medium=android_app) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/samsid__) 
