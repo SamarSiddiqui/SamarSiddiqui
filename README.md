@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Samar 👋
-🔭 I’m currently working on something really cool.<br>👯 I’m looking to collaborate on open source Projects.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning JavaScript Framework.<br>💬 Ask me about I code better with a cat on my lap—fact or fiction? 😺💻<br>⚡ Fun fact
+🔭 I’m currently working on something really cool.<br>👯 I’m looking to collaborate on open Source Projects.<br>🌱 I’m currently learning JavaScript Framework.<br>💬 Ask me about I code better with a cat on my lap—fact or fiction? 😺💻<br>⚡ Fun fact I tell computers to do things. Sometimes they listen.
 
 
 ## 🌐 Socials:
