@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-🔭 I’m currently working on something really cool.<br>👯 I’m looking to collaborate on open Source Projects.<br>🌱 I’m currently learning JavaScript Framework.<br>💬 I code better with a cat on my lap—fact or fiction? 😺💻<br>⚡ I tell computers to do things. Sometimes they listen.
+🔭 I’m currently working on something really cool.<br>👯 I’m looking to collaborate on open Source Projects.<br>🌱 I’m currently learning React JS.<br>💬 I code better with a cat on my lap—fact or fiction? 😺💻<br>⚡ I tell computers to do things. Sometimes they listen.
 
 
 
