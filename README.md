@@ -14,7 +14,6 @@ I'm constantly seeking fresh challenges and thrilling projects to collaborate on
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Gsap](https://img.shields.io/badge/gsap-%231572B6.svg?style=for-the-badge&logo=gsap&logoColor=green) ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-![React](https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samarsiddiqui&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samarsiddiqui&theme=dark&hide_border=false)<br/>
