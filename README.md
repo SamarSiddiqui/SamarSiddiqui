@@ -1,4 +1,4 @@
-![Header](./github-header-image.png) <br>
+![Header](./github banner.png) <br>
 ## About Me
 Full Stack Developer with hands-on experience building scalable web applications across the entire stack. I design and develop performant frontends, architect secure backend services, and structure databases with long-term maintainability in mind.
 My work focuses on delivering production-ready systems — not just features. I prioritize clean architecture, performance optimization, security best practices, and thoughtful user experience. I approach development with an engineering mindset: understand the problem deeply, design intentionally, and implement with precision.
