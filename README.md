@@ -1,6 +1,7 @@
 ![Header](./github-header-image.png) <br>
 ## About Me
- Welcome to my creative domain! I am a passionate Frontend Web Developer with a love for all things creative. My mission is to craft unique and inspiring digital spaces that leave a lasting impact.  I enjoy bringing a static design or idea to life and learning new technologies in the process.🎨💻
+Full Stack Developer with hands-on experience building scalable web applications across the entire stack. I design and develop performant frontends, architect secure backend services, and structure databases with long-term maintainability in mind.
+My work focuses on delivering production-ready systems — not just features. I prioritize clean architecture, performance optimization, security best practices, and thoughtful user experience. I approach development with an engineering mindset: understand the problem deeply, design intentionally, and implement with precision.
 
  ## Embracing Growth 🌱
  In the dynamic world of web development, I'm a firm believer in the journey of continuous learning and adaptation. I prioritize dedicating time to exploring emerging technologies and delving into insightful tech blogs. This ongoing commitment to personal and professional growth ensures that I remain at the forefront of innovation, equipped with the latest knowledge and best practices to tackle any project head-on.
