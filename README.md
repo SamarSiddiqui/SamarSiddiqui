@@ -1,4 +1,6 @@
-<img width="1584" height="396" alt="Banner Github" src="https://github.com/user-attachments/assets/342040eb-bdcc-407b-8047-6a44fee8a6ca" />
+
+
+
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF00F5&center=true&width=648&lines=Full+Stack+Engineer;Implementing+AI-driven+systems;Developing+digital+tools+that+matter." alt="Typing SVG" /></a>
