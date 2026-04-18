@@ -10,9 +10,9 @@
   <a href="mailto:samar.r.siddiqui@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
-<br />
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-<br />
+
+<hr style="height:1.2px;border-width:0;color:gray;background-color:gray">
+
  
 ## About Me
 Full Stack Developer with hands-on experience building scalable web applications across the entire stack. I design and develop performant frontends, architect secure backend services, and structure databases with long-term maintainability in mind.
