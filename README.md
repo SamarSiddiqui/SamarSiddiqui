@@ -10,7 +10,9 @@
   <a href="mailto:samar.r.siddiqui@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
-<hr style="height:0.1px;border-width:0;color:gray;background-color:gray">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&section=footer&height=2" width="100%" />
+</p>
 
  
 ## About Me
