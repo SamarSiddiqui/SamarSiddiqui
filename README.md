@@ -1,5 +1,7 @@
 ![Header](./github-banner.png) <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF00F5&center=true&width=648&lines=Full+Stack+Engineer;Implementing+AI-driven+systems;Developing+digital+tools+that+matter.)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF00F5&center=true&width=648&lines=Full+Stack+Engineer;Implementing+AI-driven+systems;Developing+digital+tools+that+matter." alt="Typing SVG" /></a>
+ </p>
 ## About Me
 Full Stack Developer with hands-on experience building scalable web applications across the entire stack. I design and develop performant frontends, architect secure backend services, and structure databases with long-term maintainability in mind.
 My work focuses on delivering production-ready systems — not just features. I prioritize clean architecture, performance optimization, security best practices, and thoughtful user experience. I approach development with an engineering mindset: understand the problem deeply, design intentionally, and implement with precision.
