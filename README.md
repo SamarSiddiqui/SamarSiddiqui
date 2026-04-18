@@ -4,15 +4,15 @@
  </p>
 
 <p align="center">
+   <a href="https://twitter.com/samsid__"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" /></a> 
   <a href="https://discord.com/users/samarsidd"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a> 
   <a href="https://linkedin.com/in/samarsidd/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a> 
-  <a href="https://twitter.com/samsid__"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" /></a> 
   <a href="mailto:samar.r.siddiqui@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&section=footer&height=2" width="100%" />
-</p>
+<br />
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<br />
  
 ## About Me
 Full Stack Developer with hands-on experience building scalable web applications across the entire stack. I design and develop performant frontends, architect secure backend services, and structure databases with long-term maintainability in mind.
