@@ -1,4 +1,5 @@
 ![Header](./github-banner.png) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 ## About Me
 Full Stack Developer with hands-on experience building scalable web applications across the entire stack. I design and develop performant frontends, architect secure backend services, and structure databases with long-term maintainability in mind.
 My work focuses on delivering production-ready systems — not just features. I prioritize clean architecture, performance optimization, security best practices, and thoughtful user experience. I approach development with an engineering mindset: understand the problem deeply, design intentionally, and implement with precision.
