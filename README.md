@@ -1,5 +1,12 @@
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/f56c9bd4-9ddf-4325-bffd-d67fd78fabff" width="100%" autoplay loop muted playsinline></video>
+  <video src="https://github.com/user-attachments/assets/f56c9bd4-9ddf-4325-bffd-d67fd78fabff" 
+    width="100%" 
+    autoplay 
+    loop 
+    muted 
+    playsinline 
+    style="pointer-events: none;">
+  </video>
 </p>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF00F5&center=true&width=648&lines=Full+Stack+Engineer;Implementing+AI-driven+systems;Developing+digital+tools+that+matter." alt="Typing SVG" /></a>
