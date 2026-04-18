@@ -1,8 +1,8 @@
-
-
-Uploading Developer github Banner.mp4…
-
-![Header](./github-banner.png) <br>
+<p align="center">
+  <video src="<p align="center">
+  <video src="PASTE_YOUR_GENERATED_URL_HERE" width="100%" autoplay loop muted playsinline></video>
+</p>" width="100%" autoplay loop muted playsinline></video>
+</p>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF00F5&center=true&width=648&lines=Full+Stack+Engineer;Implementing+AI-driven+systems;Developing+digital+tools+that+matter." alt="Typing SVG" /></a>
  </p>
