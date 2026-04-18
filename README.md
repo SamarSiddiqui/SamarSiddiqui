@@ -4,10 +4,10 @@
  </p>
 
 <p align="center">
-  <a href="https://discord.gg/Samar#9041"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
-  <a href="https://instagram.com/samsid__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/samarsidd/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/samsid__"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" /></a>
+  <a href="https://discord.com/users/samarsidd"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a> 
+  <a href="https://linkedin.com/in/samarsidd/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a> 
+  <a href="https://twitter.com/samsid__"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" /></a> 
+  <a href="mailto:samar.r.siddiqui@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
