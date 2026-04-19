@@ -19,7 +19,7 @@
  
 ## About Me
 Full Stack Engineer who views code as the bridge between a raw idea and a daily habit. I don't just ship features; I build intentional, high-concurrency systems designed to scale.
-I turn conceptual "what-ifs" into production reality through rapid iteration. By leaning into feedback loops, I engineer evolving solutions that solve tangible problems and grow alongside their users. <a href="https://builtbysam7.web.app/" target="_blank" rel="noopener noreferrer">Check out my work →</a>
+I turn conceptual "what-ifs" into production reality through rapid iteration. By leaning into feedback loops, I engineer evolving solutions that solve tangible problems and grow alongside their users. <a href="https://builtbysam7.web.app/" target="_blank" rel="noopener noreferrer">Check out my work</a>
 
  ## Engineering Philosophy 🌱
 Strong fundamentals drive sustainable systems.
