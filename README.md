@@ -19,7 +19,7 @@
  
 ## About Me
 Full Stack Engineer who views code as the bridge between a raw idea and a daily habit. I don't just ship features; I build intentional, high-concurrency systems designed to scale.
-I’m driven by rapid iteration and high-velocity delivery. I love taking a conceptual "what-if" and turning it into a production-ready reality. By leaning into real-world feedback loops, I transform ideas into evolving solutions that solve tangible problems. For me, the goal isn’t just to ship code—it’s to engineer systems that adapt and grow alongside the people using them.
+I thrive on rapid iteration and turning conceptual "what-ifs" into production reality. By leaning into feedback loops, I transform ideas into evolving solutions that solve tangible problems. My goal isn’t just to ship code—it’s to engineer systems that grow alongside the people using them.
 
  ## Engineering Philosophy 🌱
 Strong fundamentals drive sustainable systems.
