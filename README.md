@@ -18,8 +18,8 @@
 
  
 ## About Me
-Full Stack Developer with hands-on experience building scalable web applications across the entire stack. I design and develop performant frontends, architect secure backend services, and structure databases with long-term maintainability in mind.
-My work focuses on delivering production-ready systems — not just features. I prioritize clean architecture, performance optimization, security best practices, and thoughtful user experience. I approach development with an engineering mindset: understand the problem deeply, design intentionally, and implement with precision.
+Full Stack Engineer who views code as the bridge between a raw idea and a daily habit. I don't just ship features; I build intentional, high-concurrency systems designed to scale.
+I’m driven by rapid iteration and high-velocity delivery. I love taking a conceptual "what-if" and turning it into a production-ready reality. By leaning into real-world feedback loops, I transform ideas into evolving solutions that solve tangible problems. For me, the goal isn’t just to ship code—it’s to engineer systems that adapt and grow alongside the people using them.
 
  ## Engineering Philosophy 🌱
 Strong fundamentals drive sustainable systems.
