@@ -21,6 +21,9 @@
 Full Stack Engineer who views code as the bridge between a raw idea and a daily habit. I don't just ship features; I build intentional, high-concurrency systems designed to scale.
 I turn conceptual "what-ifs" into production reality through rapid iteration. By leaning into feedback loops, I engineer evolving solutions that solve tangible problems and grow alongside their users. <a href="https://builtbysam7.web.app/" target="_blank" rel="noopener noreferrer">Check out my work</a>
 
+## Stack
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,go,mongodb,redis,tailwind,framer,threejs,figma)](https://skillicons.dev)
+
  ## Engineering Philosophy 🌱
 Strong fundamentals drive sustainable systems.
 I continuously invest in strengthening core computer science principles — system design, networking, database architecture, caching strategies, and application security — while leveraging modern frameworks and tools where they add real value. Technology evolves quickly. Principles endure.
