@@ -22,7 +22,7 @@ Full Stack Engineer who views code as the bridge between a raw idea and a daily 
 I turn conceptual "what-ifs" into production reality through rapid iteration. By leaning into feedback loops, I engineer evolving solutions that solve tangible problems and grow alongside their users. <a href="https://builtbysam7.web.app/" target="_blank" rel="noopener noreferrer">Check out my work</a>
 
 ## Stack
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,go,mongodb,redis,tailwind,framer,threejs,figma)](https://skillicons.dev)
+**`Next.js`** **`Go`** **`MongoDB`** **`Redis`**
 
  ## Engineering Philosophy 🌱
 Strong fundamentals drive sustainable systems.
