@@ -24,7 +24,7 @@ I turn conceptual "what-ifs" into production reality through rapid iteration. By
 ## Stack
 **`Next.js`** ![Next.js](https://img.shields.io/badge/-black?logo=next.js&logoColor=white) **`React`** ![React](https://img.shields.io/badge/-black?logo=react&logoColor=61DAFB) **`Golang`** ![Go](https://img.shields.io/badge/-black?logo=go&logoColor=00ADD8) **`Node.js`** ![Node.js](https://img.shields.io/badge/-black?logo=node.js&logoColor=339933) **`TypeScript`** ![TypeScript](https://img.shields.io/badge/-black?logo=typescript&logoColor=3178C6) **`JavaScript`** ![JavaScript](https://img.shields.io/badge/-black?logo=javascript&logoColor=F7DF1E) **`Zustand`** ![Zustand](https://img.shields.io/badge/-black?logo=react&logoColor=white) **`Supabase`** ![Supabase](https://img.shields.io/badge/-black?logo=supabase&logoColor=3ECF8E) **`MongoDB`** ![MongoDB](https://img.shields.io/badge/-black?logo=mongodb&logoColor=47A248) **`Postman`** ![Postman](https://img.shields.io/badge/-black?logo=postman&logoColor=FF6C37) **`REST APIs`** ![API](https://img.shields.io/badge/-black?logo=insomnia&logoColor=white) **`Tailwind CSS`** ![Tailwind](https://img.shields.io/badge/-black?logo=tailwind-css&logoColor=06B6D4) **`GSAP`** ![GSAP](https://img.shields.io/badge/-black?logo=greensock&logoColor=88CE02)
 
-### 🚀 Fresh Builds
+## Fresh Builds
 *Selected projects focused on utility, AI integration, and refined user experience.*
 
 | Project | Essence |
