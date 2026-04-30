@@ -24,29 +24,17 @@ I turn conceptual "what-ifs" into production reality through rapid iteration. By
 ## Stack
 **`Next.js`** ![Next.js](https://img.shields.io/badge/-black?logo=next.js&logoColor=white) **`React`** ![React](https://img.shields.io/badge/-black?logo=react&logoColor=61DAFB) **`Golang`** ![Go](https://img.shields.io/badge/-black?logo=go&logoColor=00ADD8) **`Node.js`** ![Node.js](https://img.shields.io/badge/-black?logo=node.js&logoColor=339933) **`TypeScript`** ![TypeScript](https://img.shields.io/badge/-black?logo=typescript&logoColor=3178C6) **`JavaScript`** ![JavaScript](https://img.shields.io/badge/-black?logo=javascript&logoColor=F7DF1E) **`Zustand`** ![Zustand](https://img.shields.io/badge/-black?logo=react&logoColor=white) **`Supabase`** ![Supabase](https://img.shields.io/badge/-black?logo=supabase&logoColor=3ECF8E) **`MongoDB`** ![MongoDB](https://img.shields.io/badge/-black?logo=mongodb&logoColor=47A248) **`Postman`** ![Postman](https://img.shields.io/badge/-black?logo=postman&logoColor=FF6C37) **`REST APIs`** ![API](https://img.shields.io/badge/-black?logo=insomnia&logoColor=white) **`Tailwind CSS`** ![Tailwind](https://img.shields.io/badge/-black?logo=tailwind-css&logoColor=06B6D4) **`GSAP`** ![GSAP](https://img.shields.io/badge/-black?logo=greensock&logoColor=88CE02)
 
-### 🛠 Digital Artifacts
-*Curated products built with a focus on intent and user experience.*
+### 🚀 Selected Works
 
-#### 🌿 [Sproutly](https://github.com/SamarSiddiqui/Sproutly) — Botany for the Busy
-> A tranquil dashboard designed to simplify urban gardening. It replaces complex tracking with intuitive, glanceable care schedules for your leafy roommates.
-- **Impact:** Reduced cognitive load for plant owners through automated watering & pruning logic.
-- **Focus:** Interface Serenity, UX Flow, Local Persistence.
+**[Sproutly](https://github.com/SamarSiddiqui/Sproutly)** *The tranquil dashboard for modern plant parents.* `Botany` • `Management` • `Minimalism`
 
-#### 🎯 [Zenith](https://github.com/SamarSiddiqui/Zenith) — Deep Focus Architecture
-> A minimalist habit system that prioritizes mental clarity. Built for users who value consistency over complexity, featuring a distraction-free environment.
-- **Impact:** Designed a "Flow State" UI that encourages long-term streak maintenance.
-- **Focus:** Performance, Framer Motion, Habit Psychology.
+**[Zenith](https://github.com/SamarSiddiqui/Zenith)** *Architecting deep focus and consistent habits.* `Productivity` • `UI/UX` • `Mindfulness`
 
-#### 🎬 [Netflix GPT](https://github.com/SamarSiddiqui/NetflixGPT) — The Intelligent Lens
-> Bridging the gap between cinematic browsing and LLM discovery. It transforms the way users find content by integrating AI-native search into a familiar UI.
-- **Impact:** Leveraged OpenAI to solve the "Paradox of Choice" in streaming services.
-- **Focus:** AI Integration, Redux State, Responsive Design.
+**[Netflix GPT](https://github.com/SamarSiddiqui/NetflixGPT)** *Intelligent movie discovery powered by LLMs.* `Artificial Intelligence` • `Discovery` • `React`
 
-#### ✍️ [Sukhan](https://github.com/SamarSiddiqui/Sukhan) — The Digital Anthology
-> A curated space for the appreciation of classical verse. Utilizes algorithmic generation to bring timeless poetry into a modern, accessible format.
-- **Impact:** Preserving heritage through a simplified, one-click discovery experience.
-- **Focus:** Algorithmic Content, Creative UI, Community Appreciation.
+**[Sukhan](https://github.com/SamarSiddiqui/Sukhan)** *A digital sanctuary for classical poetry.* `Creative Coding` • `Literature` • `Anthology`
 
+---
  <!--## Engineering Philosophy 🌱
 Strong fundamentals drive sustainable systems.
 I continuously invest in strengthening core computer science principles — system design, networking, database architecture, caching strategies, and application security — while leveraging modern frameworks and tools where they add real value. Technology evolves quickly. Principles endure.  -->
