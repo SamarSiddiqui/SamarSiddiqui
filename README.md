@@ -24,15 +24,24 @@ I turn conceptual "what-ifs" into production reality through rapid iteration. By
 ## Stack
 **`Next.js`** ![Next.js](https://img.shields.io/badge/-black?logo=next.js&logoColor=white) **`React`** ![React](https://img.shields.io/badge/-black?logo=react&logoColor=61DAFB) **`Golang`** ![Go](https://img.shields.io/badge/-black?logo=go&logoColor=00ADD8) **`Node.js`** ![Node.js](https://img.shields.io/badge/-black?logo=node.js&logoColor=339933) **`TypeScript`** ![TypeScript](https://img.shields.io/badge/-black?logo=typescript&logoColor=3178C6) **`JavaScript`** ![JavaScript](https://img.shields.io/badge/-black?logo=javascript&logoColor=F7DF1E) **`Zustand`** ![Zustand](https://img.shields.io/badge/-black?logo=react&logoColor=white) **`Supabase`** ![Supabase](https://img.shields.io/badge/-black?logo=supabase&logoColor=3ECF8E) **`MongoDB`** ![MongoDB](https://img.shields.io/badge/-black?logo=mongodb&logoColor=47A248) **`Postman`** ![Postman](https://img.shields.io/badge/-black?logo=postman&logoColor=FF6C37) **`REST APIs`** ![API](https://img.shields.io/badge/-black?logo=insomnia&logoColor=white) **`Tailwind CSS`** ![Tailwind](https://img.shields.io/badge/-black?logo=tailwind-css&logoColor=06B6D4) **`GSAP`** ![GSAP](https://img.shields.io/badge/-black?logo=greensock&logoColor=88CE02)
 
-### 🚀 Selected Works
+## Digital Artifacts
+*Selected products built with focus and intent.*
 
-**[Sproutly](https://github.com/SamarSiddiqui/Sproutly)** *The tranquil dashboard for modern plant parents.* `Botany` • `Management` • `Minimalism`
+#### 🌿 [Sproutly](https://github.com/SamarSiddiqui/Sproutly) — Botany for the Busy
+> **Intent:** Simplifying urban gardening by replacing complex tracking with intuitive, glanceable care schedules.
+- **Focus:** Interface Serenity • UX Flow • Local Persistence
 
-**[Zenith](https://github.com/SamarSiddiqui/Zenith)** *Architecting deep focus and consistent habits.* `Productivity` • `UI/UX` • `Mindfulness`
+#### 🎯 [Zenith](https://github.com/SamarSiddiqui/Zenith) — Deep Focus Architecture
+> **Intent:** A minimalist habit system designed to prioritize mental clarity and consistent streak maintenance.
+- **Focus:** Performance • Framer Motion • Habit Psychology
 
-**[Netflix GPT](https://github.com/SamarSiddiqui/NetflixGPT)** *Intelligent movie discovery powered by LLMs.* `Artificial Intelligence` • `Discovery` • `React`
+#### 🎬 [Netflix GPT](https://github.com/SamarSiddiqui/NetflixGPT) — The Intelligent Lens
+> **Intent:** Integrating AI-native search into a familiar UI to solve discovery fatigue through LLMs.
+- **Focus:** AI Integration • Redux State • Responsive Design
 
-**[Sukhan](https://github.com/SamarSiddiqui/Sukhan)** *A digital sanctuary for classical poetry.* `Creative Coding` • `Literature` • `Anthology`
+#### ✍️ [Sukhan](https://github.com/SamarSiddiqui/Sukhan) — The Digital Anthology
+> **Intent:** A curated space for classical verse, using algorithmic generation to modernize poetry discovery.
+- **Focus:** Algorithmic Content • Creative UI • Literature
 
 ---
  <!--## Engineering Philosophy 🌱
