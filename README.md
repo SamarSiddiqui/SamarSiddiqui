@@ -24,6 +24,18 @@ I turn conceptual "what-ifs" into production reality through rapid iteration. By
 ## Stack
 **`Next.js`** ![Next.js](https://img.shields.io/badge/-black?logo=next.js&logoColor=white) **`React`** ![React](https://img.shields.io/badge/-black?logo=react&logoColor=61DAFB) **`Golang`** ![Go](https://img.shields.io/badge/-black?logo=go&logoColor=00ADD8) **`Node.js`** ![Node.js](https://img.shields.io/badge/-black?logo=node.js&logoColor=339933) **`TypeScript`** ![TypeScript](https://img.shields.io/badge/-black?logo=typescript&logoColor=3178C6) **`JavaScript`** ![JavaScript](https://img.shields.io/badge/-black?logo=javascript&logoColor=F7DF1E) **`Zustand`** ![Zustand](https://img.shields.io/badge/-black?logo=react&logoColor=white) **`Supabase`** ![Supabase](https://img.shields.io/badge/-black?logo=supabase&logoColor=3ECF8E) **`MongoDB`** ![MongoDB](https://img.shields.io/badge/-black?logo=mongodb&logoColor=47A248) **`Postman`** ![Postman](https://img.shields.io/badge/-black?logo=postman&logoColor=FF6C37) **`REST APIs`** ![API](https://img.shields.io/badge/-black?logo=insomnia&logoColor=white) **`Tailwind CSS`** ![Tailwind](https://img.shields.io/badge/-black?logo=tailwind-css&logoColor=06B6D4) **`GSAP`** ![GSAP](https://img.shields.io/badge/-black?logo=greensock&logoColor=88CE02)
 
+### 🚀 Fresh Builds
+*Selected projects focused on utility, AI integration, and refined user experience.*
+
+| Project | Essence |
+| :--- | :--- |
+| **[Sproutly](https://github.com/SamarSiddiqui/Sproutly)** | A cozy plant-care dashboard to manage collections and schedules without the stress of spreadsheets. |
+| **[Zenith](https://github.com/SamarSiddiqui/Zenith)** | A mindful habit planner built with a serene, distraction-free interface to help maintain long-term streaks. |
+| **[Netflix GPT](https://github.com/SamarSiddiqui/NetflixGPT)** | Cinematic movie discovery platform using GPT-powered search for hyper-personalized recommendations. |
+| **[Sukhan](https://github.com/SamarSiddiqui/Sukhan)** | A minimalist platform dedicated to the appreciation and generation of classical poetry. |
+
+---
+
  <!--## Engineering Philosophy 🌱
 Strong fundamentals drive sustainable systems.
 I continuously invest in strengthening core computer science principles — system design, networking, database architecture, caching strategies, and application security — while leveraging modern frameworks and tools where they add real value. Technology evolves quickly. Principles endure.  -->
